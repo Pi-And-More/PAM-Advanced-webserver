@@ -3,7 +3,7 @@
 #define PARAMNOTFOUND "XxXxXxX"
 
 const char* ssid = "YourSSID";
-const char* password = "YourPasword";
+const char* password = "YourPassword";
 
 WiFiServer server(80);
 
